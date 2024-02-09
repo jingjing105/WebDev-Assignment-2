@@ -1,0 +1,42 @@
+div{
+    width: 200px;
+    height: 200px;
+    padding: 10px;
+}
+
+#box1{
+    background-color: pink;
+    border: 5px solid rgb(255, 255, 190);
+}
+
+#box2{
+    background-color: rgb(235, 191, 235);
+    border: 10px solid rgb(202, 244, 240);
+    margin-left: 230px;
+}
+
+#box3{
+    background-color: rgb(175, 175, 239);
+    border: 20px solid rgb(196, 215, 251);
+    margin-left: 470px;
+}
+
+#box4{
+    background-color: rgb(235, 191, 235);
+    border: 40px solid rgb(202, 244, 240);
+    margin-left: 730px;
+}
+
+#box5{
+    background-color: pink;
+    border: 80px solid rgb(255, 255, 190);
+    margin-left: 1030px;
+}
+
+p{
+    color: rgb(255, 255, 255);
+}
+
+body{
+    background-color: black;
+}
